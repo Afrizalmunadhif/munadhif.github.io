@@ -1,0 +1,30 @@
+.banner {
+    background: url(Image/clint-patterson-dYEuFB8KQJk-unsplash.jpg)no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #d7872b;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.kontak {
+    background: url(Image/WorldMap.jpg3A787435-0DA9-475B-AAED-B6B68EA82C15Original.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
